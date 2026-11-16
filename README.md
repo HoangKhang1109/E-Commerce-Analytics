@@ -24,8 +24,9 @@ The analysis is designed to answer questions such as:
 
 ## Dataset
 
-The dataset was accessed through the XómData e-commerce database. It
-contains four source tables:
+The dataset was accessed through the XómData e-commerce database.
+Dataset:  https://dataset.xomdata.com/datasets/schema/e_commerce
+Itcontains four source tables:
 
   ----------------------------------------------------------------------------
   Table                     Description                                   Rows
